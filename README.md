@@ -1,4 +1,4 @@
-# TrueFoundry_Intern_submission
+# Airline_sentiment
 Submitted by Tanishq Selot, 3rd year, IIT Indore. Sentiment Analysis of Twitter Airline sentiment Data.
 
 1. Main model - Word Embedding using **Word2Vec**, Architecture - **LSTM**
